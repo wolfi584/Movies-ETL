@@ -1,2 +1,3 @@
 # Ignore the Data/ Folder
 Data/
+config.py
