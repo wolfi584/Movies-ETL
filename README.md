@@ -16,7 +16,7 @@
 - Write a list to keep non-null values, and make a wikipedia movies data frame. 
 - Produce a variable to hold non-null values from the box office column. Change box office data to string values. Write expressions to match the six elements of box office data from form one and the three elements from form two.
 - Clean the code in the budget, release date, and running time columns. 
-- Create a path to the Wikipedia, Kaggle metadata, and MovieLens rating files. Make three variable equal to function created in deliverable one. Set wiki_movies data frame equal to the Wiki_file variable.
+- Create a path to the Wikipedia, Kaggle metadata, and MovieLens rating files. Make three variables equal to function created in deliverable one. Set wiki_movies data frame equal to the Wiki_file variable.
 
 ### Extract and transform the Kaggle Data
 - Add function to read and create kaggle_meta_data and ratings data_frames. Add all the code from deliverable two. Add code to clean kaggle metadata.
