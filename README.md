@@ -23,11 +23,11 @@
 - Merge wiki_movies_df and kaggle_metadata. Name the new data frame movies_df. 
 - Clean the movies_df data frame, Kaggle, and Wikipedia columns as arguments. Filter the movies_df data frame. 
 - Merge the ratings data frame with the movies_df data frame. Rename the data frame to movies_with_ratings_df. 
-- Make a file path to Wikipedia data, Kaggle metadata, MovieLens rating data files. set three variables equal to function created in deliverable one. Set data frames equal to file names in step eleeven. Check that wiki_movies_df as the same as in deliverable two. 
+- Make a file path to Wikipedia data, Kaggle metadata, MovieLens rating data files. set three variables equal to function created in deliverable one. Set data frames equal to file names in step eleven. Check that wiki_movies_df as the same as in deliverable two. 
 
 ### Create the movie database
 - Rename ETL_clean_kaggle_data.ipynb to ETL_create_database.ipynb. 
-- Add movies_df data frame annd MovieLens rating CSV data to SQL database. 
+- Add movies_df data frame annd MovieLens rating CSV data into SQL database. 
 
 
 
